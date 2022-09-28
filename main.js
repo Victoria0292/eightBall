@@ -1,3 +1,4 @@
+//Codecademy project Magic Eight Ball! Practicing ternary expression, string interpolation and condintional statements
 let userName = "Vikki";
 /*Ternary expression is a condition ? expression to execute if the condition is 
 truthy : expression to execute if the condition is falsy*/
